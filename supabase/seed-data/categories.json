@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cat1",
+    "slug": "football",
+    "name": "Football",
+    "icon": "CircleDot",
+    "group": "sports",
+    "description": "Polish-founded football clubs playing in German regional leagues."
+  },
+  {
+    "id": "cat2",
+    "slug": "volleyball",
+    "name": "Volleyball",
+    "icon": "Activity",
+    "group": "sports",
+    "description": "Casual and competitive volleyball groups."
+  },
+  {
+    "id": "cat3",
+    "slug": "regional-associations",
+    "name": "Polonia Associations",
+    "icon": "Landmark",
+    "group": "community",
+    "description": "Registered Polonia associations preserving Polish language, culture, and tradition across Germany."
+  },
+  {
+    "id": "cat4",
+    "slug": "parishes",
+    "name": "Polish Catholic Parishes",
+    "icon": "Flame",
+    "group": "community",
+    "description": "Polish-language Catholic Mission parishes (Polska Misja Katolicka) holding regular Mass and community life."
+  },
+  {
+    "id": "cat5",
+    "slug": "polish-schools",
+    "name": "Polish Saturday Schools",
+    "icon": "GraduationCap",
+    "group": "community",
+    "description": "Weekend schools teaching Polish language, history, and culture to children of the diaspora."
+  },
+  {
+    "id": "cat6",
+    "slug": "dance-music-groups",
+    "name": "Dance & Music Groups",
+    "icon": "Music",
+    "group": "community",
+    "description": "Polish folk dance ensembles and music groups performing at community festivals."
+  },
+  {
+    "id": "cat7",
+    "slug": "professional-networks",
+    "name": "Professional Networks",
+    "icon": "Briefcase",
+    "group": "community",
+    "description": "Networking groups for Polish professionals working in Germany."
+  },
+  {
+    "id": "cat11",
+    "slug": "restaurants",
+    "name": "Polish Restaurants",
+    "icon": "UtensilsCrossed",
+    "group": "food",
+    "description": "Pierogi, bigos, and Polish home cooking across Germany."
+  },
+  {
+    "id": "cat17",
+    "slug": "events",
+    "name": "Events",
+    "icon": "CalendarDays",
+    "group": "life",
+    "description": "Festivals, tournaments, and meetups."
+  }
+]

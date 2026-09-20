@@ -1,0 +1,51 @@
+import {
+  Zap,
+  CircleDot,
+  Activity,
+  Feather,
+  Landmark,
+  GraduationCap,
+  Music,
+  Sparkles,
+  Briefcase,
+  UtensilsCrossed,
+  ShoppingBasket,
+  Stethoscope,
+  Scale,
+  Home,
+  CalendarDays,
+  BookOpen,
+  Car,
+  MapPin,
+  Users,
+  Building2,
+  Flame,
+  type LucideIcon,
+} from "lucide-react";
+
+export const iconMap: Record<string, LucideIcon> = {
+  Zap,
+  CircleDot,
+  Activity,
+  Feather,
+  Landmark,
+  GraduationCap,
+  Music,
+  Sparkles,
+  Briefcase,
+  UtensilsCrossed,
+  ShoppingBasket,
+  Stethoscope,
+  Scale,
+  Home,
+  CalendarDays,
+  BookOpen,
+  Car,
+  MapPin,
+  Users,
+  Building2,
+};
+
+export function getIcon(name: string): LucideIcon {
+  return iconMap[name] ?? Sparkles;
+}

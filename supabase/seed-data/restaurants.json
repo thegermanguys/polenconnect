@@ -1,0 +1,362 @@
+[
+  {
+    "id": "r1",
+    "slug": "pierogarnia-berlin",
+    "name": "Pierogarnia",
+    "citySlug": "berlin",
+    "category": "Restaurant",
+    "logo": "https://ui-avatars.com/api/?name=Pi&background=DC143C&color=fff&size=256&bold=true",
+    "photos": [
+      "https://picsum.photos/seed/pierogarnia-berlin-1/900/600",
+      "https://picsum.photos/seed/pierogarnia-berlin-2/900/600",
+      "https://picsum.photos/seed/pierogarnia-berlin-3/900/600"
+    ],
+    "description": "Small, family-run Polish restaurant in Wedding specializing in pierogi with various fillings alongside classic soups like barszcz and kapuśniak.",
+    "openingHours": [
+      {
+        "day": "Mon–Fri",
+        "hours": "See website / call to confirm"
+      },
+      {
+        "day": "Sat–Sun",
+        "hours": "See website / call to confirm"
+      }
+    ],
+    "address": "Turiner Straße 21, 13347 Berlin",
+    "mapsUrl": "https://maps.google.com/?q=Turiner%20Stra%C3%9Fe%2021%2C%2013347%20Berlin",
+    "social": {
+      "instagram": "",
+      "website": ""
+    },
+    "phone": "",
+    "rating": 0,
+    "reviewCount": 0,
+    "isPremium": false,
+    "status": "approved",
+    "cuisine": [
+      "Polish"
+    ],
+    "menuHighlights": [],
+    "delivery": []
+  },
+  {
+    "id": "r2",
+    "slug": "polish-dainty-berlin",
+    "name": "Polish Dainty",
+    "citySlug": "berlin",
+    "category": "Restaurant",
+    "logo": "https://ui-avatars.com/api/?name=Po&background=DC143C&color=fff&size=256&bold=true",
+    "photos": [
+      "https://picsum.photos/seed/polish-dainty-berlin-1/900/600",
+      "https://picsum.photos/seed/polish-dainty-berlin-2/900/600",
+      "https://picsum.photos/seed/polish-dainty-berlin-3/900/600"
+    ],
+    "description": "Homestyle Polish restaurant in Mitte using a 120-year-old family recipe, offering a wide range of sweet and savoury pierogi fillings.",
+    "openingHours": [
+      {
+        "day": "Mon–Fri",
+        "hours": "See website / call to confirm"
+      },
+      {
+        "day": "Sat–Sun",
+        "hours": "See website / call to confirm"
+      }
+    ],
+    "address": "Invalidenstr. 34, 10115 Berlin",
+    "mapsUrl": "https://maps.google.com/?q=Invalidenstr.%2034%2C%2010115%20Berlin",
+    "social": {
+      "instagram": "",
+      "website": "https://www.polishdaintysandjgmbh.de"
+    },
+    "phone": "",
+    "rating": 0,
+    "reviewCount": 0,
+    "isPremium": false,
+    "status": "approved",
+    "cuisine": [
+      "Polish"
+    ],
+    "menuHighlights": [],
+    "delivery": []
+  },
+  {
+    "id": "r3",
+    "slug": "bistro-aleksandra-berlin",
+    "name": "Bistro Aleksandra",
+    "citySlug": "berlin",
+    "category": "Restaurant",
+    "logo": "https://ui-avatars.com/api/?name=Bi&background=DC143C&color=fff&size=256&bold=true",
+    "photos": [
+      "https://picsum.photos/seed/bistro-aleksandra-berlin-1/900/600",
+      "https://picsum.photos/seed/bistro-aleksandra-berlin-2/900/600",
+      "https://picsum.photos/seed/bistro-aleksandra-berlin-3/900/600"
+    ],
+    "description": "Westside Berlin Polish restaurant known for a hearty plate of ten pierogi served with fried onions, cabbage, and sour cream.",
+    "openingHours": [
+      {
+        "day": "Mon–Fri",
+        "hours": "See website / call to confirm"
+      },
+      {
+        "day": "Sat–Sun",
+        "hours": "See website / call to confirm"
+      }
+    ],
+    "address": "Schloßstr. 33, 12163 Berlin",
+    "mapsUrl": "https://maps.google.com/?q=Schlo%C3%9Fstr.%2033%2C%2012163%20Berlin",
+    "social": {
+      "instagram": "",
+      "website": ""
+    },
+    "phone": "",
+    "rating": 0,
+    "reviewCount": 0,
+    "isPremium": false,
+    "status": "approved",
+    "cuisine": [
+      "Polish"
+    ],
+    "menuHighlights": [],
+    "delivery": []
+  },
+  {
+    "id": "r4",
+    "slug": "pani-smak-hamburg",
+    "name": "Pani Smak",
+    "citySlug": "hamburg",
+    "category": "Restaurant",
+    "logo": "https://ui-avatars.com/api/?name=Pa&background=DC143C&color=fff&size=256&bold=true",
+    "photos": [
+      "https://picsum.photos/seed/pani-smak-hamburg-1/900/600",
+      "https://picsum.photos/seed/pani-smak-hamburg-2/900/600",
+      "https://picsum.photos/seed/pani-smak-hamburg-3/900/600"
+    ],
+    "description": "Started as a food truck before opening this Polish restaurant in Winterhude, serving pierogi, bigos, and zapiekanka.",
+    "openingHours": [
+      {
+        "day": "Mon–Fri",
+        "hours": "See website / call to confirm"
+      },
+      {
+        "day": "Sat–Sun",
+        "hours": "See website / call to confirm"
+      }
+    ],
+    "address": "Hölderlinsallee 1, 22303 Hamburg",
+    "mapsUrl": "https://maps.google.com/?q=H%C3%B6lderlinsallee%201%2C%2022303%20Hamburg",
+    "social": {
+      "instagram": "",
+      "website": "http://panismak.de"
+    },
+    "phone": "",
+    "rating": 0,
+    "reviewCount": 0,
+    "isPremium": false,
+    "status": "approved",
+    "cuisine": [
+      "Polish"
+    ],
+    "menuHighlights": [],
+    "delivery": []
+  },
+  {
+    "id": "r5",
+    "slug": "joannas-schmankerl-munich",
+    "name": "Joanna's Schmankerl",
+    "citySlug": "munich",
+    "category": "Restaurant",
+    "logo": "https://ui-avatars.com/api/?name=Jo&background=DC143C&color=fff&size=256&bold=true",
+    "photos": [
+      "https://picsum.photos/seed/joannas-schmankerl-munich-1/900/600",
+      "https://picsum.photos/seed/joannas-schmankerl-munich-2/900/600",
+      "https://picsum.photos/seed/joannas-schmankerl-munich-3/900/600"
+    ],
+    "description": "Small Polish bakery and restaurant run by owner Joanna, serving homemade pierogi, bigos, gulasz, and Silesian dumplings (kopytka), plus Polish cakes to order.",
+    "openingHours": [
+      {
+        "day": "Mon–Fri",
+        "hours": "See website / call to confirm"
+      },
+      {
+        "day": "Sat–Sun",
+        "hours": "See website / call to confirm"
+      }
+    ],
+    "address": "Feldbergstraße 6, 81825 München",
+    "mapsUrl": "https://maps.google.com/?q=Feldbergstra%C3%9Fe+6+M%C3%BCnchen",
+    "social": {
+      "instagram": "",
+      "website": "https://www.joannasschmankerl.de"
+    },
+    "phone": "+49 172 6354592",
+    "rating": 0,
+    "reviewCount": 0,
+    "isPremium": false,
+    "status": "approved",
+    "cuisine": [
+      "Polish"
+    ],
+    "menuHighlights": [],
+    "delivery": []
+  },
+  {
+    "id": "r6",
+    "slug": "arkadius-frankfurt",
+    "name": "Arkadius",
+    "citySlug": "frankfurt",
+    "category": "Restaurant",
+    "logo": "https://ui-avatars.com/api/?name=Ar&background=DC143C&color=fff&size=256&bold=true",
+    "photos": [
+      "https://picsum.photos/seed/arkadius-frankfurt-1/900/600",
+      "https://picsum.photos/seed/arkadius-frankfurt-2/900/600",
+      "https://picsum.photos/seed/arkadius-frankfurt-3/900/600"
+    ],
+    "description": "Small, homely Polish restaurant known for its pierogi, żurek, and bigos, with a warm, family atmosphere.",
+    "openingHours": [
+      {
+        "day": "Mon–Fri",
+        "hours": "See website / call to confirm"
+      },
+      {
+        "day": "Sat–Sun",
+        "hours": "See website / call to confirm"
+      }
+    ],
+    "address": "Feuerbachstraße 25, 60325 Frankfurt am Main",
+    "mapsUrl": "https://maps.google.com/?q=Feuerbachstra%C3%9Fe%2025%2C%2060325%20Frankfurt%20am%20Main",
+    "social": {
+      "instagram": "",
+      "website": "https://www.restaurantarkadius-frankfurtammain.de"
+    },
+    "phone": "",
+    "rating": 0,
+    "reviewCount": 0,
+    "isPremium": false,
+    "status": "approved",
+    "cuisine": [
+      "Polish"
+    ],
+    "menuHighlights": [],
+    "delivery": []
+  },
+  {
+    "id": "r7",
+    "slug": "maxima-cologne",
+    "name": "MaXimA – Feines Polnisches Restaurant",
+    "citySlug": "cologne",
+    "category": "Restaurant",
+    "logo": "https://ui-avatars.com/api/?name=Ma&background=DC143C&color=fff&size=256&bold=true",
+    "photos": [
+      "https://picsum.photos/seed/maxima-cologne-1/900/600",
+      "https://picsum.photos/seed/maxima-cologne-2/900/600",
+      "https://picsum.photos/seed/maxima-cologne-3/900/600"
+    ],
+    "description": "Polish-Bavarian-European restaurant near Rudolfplatz in Cologne's city centre, known for pierogi, pork chops, and Tyskie beer on tap.",
+    "openingHours": [
+      {
+        "day": "Mon–Fri",
+        "hours": "See website / call to confirm"
+      },
+      {
+        "day": "Sat–Sun",
+        "hours": "See website / call to confirm"
+      }
+    ],
+    "address": "Marsilstein 9-13, 50676 Köln",
+    "mapsUrl": "https://maps.google.com/?q=Marsilstein%209-13%2C%2050676%20K%C3%B6ln",
+    "social": {
+      "instagram": "",
+      "website": "https://maxima-bistro.de"
+    },
+    "phone": "+49 221 2934840",
+    "rating": 0,
+    "reviewCount": 0,
+    "isPremium": false,
+    "status": "approved",
+    "cuisine": [
+      "Polish"
+    ],
+    "menuHighlights": [],
+    "delivery": []
+  },
+  {
+    "id": "r8",
+    "slug": "polka-stuttgart",
+    "name": "Polka",
+    "citySlug": "stuttgart",
+    "category": "Restaurant",
+    "logo": "https://ui-avatars.com/api/?name=Po&background=DC143C&color=fff&size=256&bold=true",
+    "photos": [
+      "https://picsum.photos/seed/polka-stuttgart-1/900/600",
+      "https://picsum.photos/seed/polka-stuttgart-2/900/600",
+      "https://picsum.photos/seed/polka-stuttgart-3/900/600"
+    ],
+    "description": "Polish restaurant serving homemade specialties with regional ingredients, following traditional Polish recipes, with vegetarian options available.",
+    "openingHours": [
+      {
+        "day": "Mon–Fri",
+        "hours": "See website / call to confirm"
+      },
+      {
+        "day": "Sat–Sun",
+        "hours": "See website / call to confirm"
+      }
+    ],
+    "address": "Zuckerbergstraße 151, 70378 Stuttgart",
+    "mapsUrl": "https://maps.google.com/?q=Zuckerbergstra%C3%9Fe%20151%2C%2070378%20Stuttgart",
+    "social": {
+      "instagram": "",
+      "website": ""
+    },
+    "phone": "+49 711 39019179",
+    "rating": 0,
+    "reviewCount": 0,
+    "isPremium": false,
+    "status": "approved",
+    "cuisine": [
+      "Polish"
+    ],
+    "menuHighlights": [],
+    "delivery": []
+  },
+  {
+    "id": "r9",
+    "slug": "klusska-dusseldorf",
+    "name": "Klußka Polnisches Restaurant",
+    "citySlug": "dusseldorf",
+    "category": "Restaurant",
+    "logo": "https://ui-avatars.com/api/?name=Kl&background=DC143C&color=fff&size=256&bold=true",
+    "photos": [
+      "https://picsum.photos/seed/klusska-dusseldorf-1/900/600",
+      "https://picsum.photos/seed/klusska-dusseldorf-2/900/600",
+      "https://picsum.photos/seed/klusska-dusseldorf-3/900/600"
+    ],
+    "description": "Polish restaurant in Pempelfort known for żurek, pierogi, and authentic home-style Polish cooking.",
+    "openingHours": [
+      {
+        "day": "Mon–Fri",
+        "hours": "See website / call to confirm"
+      },
+      {
+        "day": "Sat–Sun",
+        "hours": "See website / call to confirm"
+      }
+    ],
+    "address": "Fischerstr. 5, 40477 Düsseldorf",
+    "mapsUrl": "https://maps.google.com/?q=Fischerstr.%205%2C%2040477%20D%C3%BCsseldorf",
+    "social": {
+      "instagram": "",
+      "website": ""
+    },
+    "phone": "",
+    "rating": 0,
+    "reviewCount": 0,
+    "isPremium": false,
+    "status": "approved",
+    "cuisine": [
+      "Polish"
+    ],
+    "menuHighlights": [],
+    "delivery": []
+  }
+]
